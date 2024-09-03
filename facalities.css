@@ -1,0 +1,374 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main1 nav a:hover{
+    border-bottom: 2px double white;
+}
+
+.main1 {
+    min-height: 50rem;
+    min-width: 100%;
+    background-image: url("assests/images/palm-trees-at-night-258154\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo img {
+    height: 140px;
+    width: 240px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1rem;
+    display: inline-block;
+    gap: 40px;
+
+}
+
+.text{
+    color: #ffffff;
+    display: inline-block;
+    padding-left: 10rem;
+    padding-top: 5rem;
+    font-size: larger;
+}
+
+.text h3{
+    font-weight:bold;
+    font-size: 2.2rem;
+}
+
+.text h1{
+    font-weight: 900;
+    font-size: 6rem;
+}
+
+.book{
+    margin-top: 35px;
+    margin-left: 42rem;
+}
+
+.book button{
+    background-color:#E0B973;
+    border-radius: 20px;
+    font-size: 1rem;
+    padding: 15px 15px 15px 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.down{
+    margin-top: 15px;
+    margin-left: 43.5rem;
+
+}
+
+.down h5{
+    font-size: 1.3rem;
+    color: white;
+}
+
+.down i{
+    padding-top: 4px;
+    padding-left: 13px;
+    color: aliceblue;
+    height: 20px;
+    font-size: xx-large;
+}
+
+/* Facalities */
+
+.main2{
+    margin-top: 3rem;
+    text-align: center;
+    color: #14274A;
+}
+
+.main2 p{
+    margin-top: 10px;
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif; 
+
+}
+
+/* Facalities images 1*/
+.facalities-images1 {
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    height: 100vh;
+    width: 140vw;
+    background-image: url("assests/images/humphrey-muleba-LOA2mTj1vhc-unsplash\ 1.png");
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 15rem;
+}
+
+.facalities-images1 {
+    height: 100vh;
+    width: 70vw;
+    border-radius: 30px;
+
+}
+
+.facalities-images1 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 20rem;
+    border-radius: 20px;
+    background-color:  rgb(248, 248, 248);
+    margin-left: 20rem;
+
+}
+
+/* Facalities images 2 */
+
+.facalities-images2 {
+    height: 110vh;
+    width: 70vw;
+    border-radius: 30px;
+
+}
+
+.facalities-images2{
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    height: 80vh;
+    width: 71vw;
+    background-image: url("assests/images/Group\ 45.png");
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 15rem;
+}
+
+.facalities-images2 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 20rem;
+    border-radius: 20px;
+    background-color:  rgb(248, 248, 248);
+    margin-left: 20rem;
+}
+
+/* Facalities images 3 */
+
+.facalities-images3 {
+    height: 110vh;
+    width: 70vw;
+    border-radius: 30px;
+
+}
+
+.facalities-images3{
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    height: 100vh;
+    width: 71vw;
+    background-image: url("assests/images/big-tiny-belly-XtnNrQYC7ts-unsplash\ 1.png");
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 15rem;
+}
+
+.facalities-images3 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 20rem;
+    border-radius: 20px;
+    background-color:  rgb(248, 248, 248);
+    margin-left: 20rem;
+}
+
+
+/* Facalities images 4 */
+
+.facalities-images4 {
+    height: 110vh;
+    width: 70vw;
+    border-radius: 30px;
+
+}
+
+.facalities-images4{
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    height: 100vh;
+    width: 71vw;
+    background-image: url("assests/images/adetayo-adefala-1K2iQQM31D0-unsplash\ 1.png");
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 15rem;
+}
+
+.facalities-images4 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 20rem;
+    border-radius: 20px;
+    background-color:  rgb(248, 248, 248);
+    margin-left: 20rem;
+}
+
+
+/* Facalities images 5 */
+
+.facalities-images5 {
+    height: 110vh;
+    width: 70vw;
+    border-radius: 30px;
+
+}
+
+.facalities-images5{
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    height: 100vh;
+    width: 71vw;
+    background-image: url("assests/images/jason-leung-poI7DelFiVA-unsplash\ 1.png");
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 15rem;
+}
+
+.facalities-images5 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 20rem;
+    border-radius: 20px;
+    background-color:  rgb(248, 248, 248);
+    margin-left: 20rem;
+}
+
+
+/* Facalities images 6 */
+
+.facalities-images6 {
+    height: 110vh;
+    width: 70vw;
+    border-radius: 30px;
+
+}
+
+.facalities-images6{
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    height: 100vh;
+    width: 71vw;
+    background-image: url("assests/images/Group\ 53.png");
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 15rem;
+}
+
+.facalities-images6 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 20rem;
+    border-radius: 20px;
+    background-color:  rgb(248, 248, 248);
+    margin-left: 20rem;
+}
+
+
+/* Upper footer elements */
+
+.upper{
+    text-align: center;
+    line-height: 2rem;
+    color: #14274A;
+    
+}
+
+.mar{
+    margin-top: 30px;
+}
+
+/* Lower footer */
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #14274A;
+    height: 30vh;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.address {
+    color: white;
+    padding-top: 20px;
+}
+
+.address h2{
+    font-size: 2rem;
+}
+
+.address h5{
+    font-size: 1rem;
+    padding-left: 40px;
+}
+
+.address p{
+    font-size: x-small;
+    padding-top: 10px;
+}
+
+.footer-options a{
+    color: white;
+    text-decoration: none;
+    line-height: 2rem;
+}
+
+.social-media a{
+    color: white;
+    text-decoration: none;
+    line-height: 2rem;
+}
+
+.footer-news{
+    color: white;
+    line-height: 2rem;
+}
+
+.footer-news h4{
+    padding-left: 70px;
+}
+
+.footer-news button{
+    background-color: #E0B973;
+    padding: 3px;
+}
+
+.footer-news input {
+    padding: 3px;
+    width: 15rem;
+}
+
